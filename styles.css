@@ -1,0 +1,53 @@
+body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    .hero {
+      background-color: #f8f9fa;
+      padding: 50px 20px;
+      text-align: center;
+      color: #333;
+      background-image: url('hero-background.jpg');
+      background-size: cover;
+      background-position: center;
+    }
+
+    .hero-content {
+      max-width: 800px;
+      margin: 0 auto;
+      background-color: rgba(255, 255, 255, 0.8);
+      padding: 20px;
+      border-radius: 10px;
+    }
+
+    .hero h1 {
+      font-size: 3em;
+      margin: 0;
+    }
+
+    .hero p {
+      font-size: 1.2em;
+      margin: 20px 0;
+    }
+
+    .hero input {
+      padding: 10px;
+      width: 80%;
+      font-size: 1em;
+    }
+
+    main {
+      padding: 20px;
+    }
+
+    article {
+      margin-bottom: 20px;
+    }
+
+    footer {
+      background-color: #f8f9fa;
+      padding: 10px;
+      text-align: center;
+    }
